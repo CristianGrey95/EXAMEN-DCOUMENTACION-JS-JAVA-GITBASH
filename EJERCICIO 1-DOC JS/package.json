@@ -1,0 +1,15 @@
+{
+  "name": "examen-documentacion-js-java-gitbash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "documentacion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdoc": "^4.0.4"
+  }
+}
